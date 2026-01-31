@@ -130,42 +130,47 @@ function formatAuthorForDirectory(name: string): string {
   return `${lastName}, ${rest}`;
 }
 
+async function processUrl(url: string): Promise<void> {
+  const { markdown, author, title } = await fetchPageAsMarkdown(url);
+  const { year, month } = parseUrlParts(url);
+
+  const authorDir = sanitizeForFilename(formatAuthorForDirectory(author));
+  const safeTitle = sanitizeForFilename(title);
+  const filename = `${year}-${month} ${safeTitle}.md`;
+  const outputDir = path.resolve("content", authorDir);
+  const outputPath = path.join(outputDir, filename);
+
+  // Check if file already exists
+  try {
+    await fs.access(outputPath);
+    console.log(`Already done: ${outputPath}`);
+    return;
+  } catch {
+    // File doesn't exist, continue
+  }
+
+  const contentWithSource = `${markdown}\n\n---\n\nSource: ${url}\n`;
+
+  await fs.mkdir(outputDir, { recursive: true });
+  await fs.writeFile(outputPath, contentWithSource, "utf-8");
+  console.log(`Written to ${outputPath}`);
+}
+
 // Main execution
 async function main() {
-  const url = process.argv[2];
+  const urls = process.argv.slice(2);
 
-  if (!url) {
-    console.error("Usage: pnpm start <url>");
+  if (urls.length === 0) {
+    console.error("Usage: pnpm start <url> [url2] [url3] ...");
     process.exit(1);
   }
 
-  try {
-    const { markdown, author, title } = await fetchPageAsMarkdown(url);
-    const { year, month, day } = parseUrlParts(url);
-
-    const authorDir = sanitizeForFilename(formatAuthorForDirectory(author));
-    const safeTitle = sanitizeForFilename(title);
-    const filename = `${year}-${month} ${safeTitle}.md`;
-    const outputDir = path.resolve("content", authorDir);
-    const outputPath = path.join(outputDir, filename);
-
-    // Check if file already exists
+  for (const url of urls) {
     try {
-      await fs.access(outputPath);
-      console.log(`Already done: ${outputPath}`);
-      return;
-    } catch {
-      // File doesn't exist, continue
+      await processUrl(url);
+    } catch (error) {
+      console.error(`Error processing ${url}:`, error);
     }
-
-    const contentWithSource = `${markdown}\n\n---\n\nSource: ${url}\n`;
-
-    await fs.mkdir(outputDir, { recursive: true });
-    await fs.writeFile(outputPath, contentWithSource, "utf-8");
-    console.log(`Written to ${outputPath}`);
-  } catch (error) {
-    console.error("Error:", error);
-    process.exit(1);
   }
 }
 
