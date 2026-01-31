@@ -81,8 +81,7 @@ export async function fetchPageAsMarkdown(url: string): Promise<PageResult> {
     }
   }
 
-  // Unescape brackets
-  const markdown = parts.join("\n\n").replace(/\\([[\]])/g, "$1");
+  const markdown = parts.join("\n\n");
 
   return {
     markdown,
@@ -110,7 +109,7 @@ function parseUrlParts(url: string): UrlParts {
 }
 
 function sanitizeForFilename(name: string): string {
-  return name.replace(/[<>:"/\\|?*]/g, "").trim();
+  return name.replace(/[<>:"/\\|?*'"`„«»\u2018\u2019\u201C\u201D]/g, "").trim();
 }
 
 function stripAuthorPrefix(name: string): string {
@@ -137,7 +136,7 @@ async function processUrl(url: string): Promise<void> {
   const authorDir = sanitizeForFilename(formatAuthorForDirectory(author));
   const safeTitle = sanitizeForFilename(title);
   const filename = `${year}-${month} ${safeTitle}.md`;
-  const outputDir = path.resolve("content", authorDir);
+  const outputDir = path.resolve("content", authorDir, "gc");
   const outputPath = path.join(outputDir, filename);
 
   // Check if file already exists
