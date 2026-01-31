@@ -1,3 +1,33 @@
+# Requirements
+
+- [x] Markdown (pretty to display, but easy to edit w/ a text editor)
+- [x] Can browse with a file system, not a database (text)
+- [x] Version control
+- [ ] Video local?
+- [ ] Hosted on the web or maybe an app (access it quickly on phone)
+
+## To Do
+
+- [ ] add in Postgres support, which will serve as the search index.
+  - [ ] columns
+    - [ ] author
+    - [ ] pretty_text
+    - [ ] search_index
+- [ ] Video support possible, possible git LFS for videos.
+- [ ] Add in a web app that works on mobile
+- [ ] The mobile app, if it's running locally, should allow us to open up to the file location to edit something.
+- [ ] The mobile app should be deployable to the web with a URL hard-coded password.
+- [ ] Add support for books and quotes such as CS Lewis.
+- [ ] Add the scriptures in with their search.
+- [ ] Search Featues
+  - [ ] Index **bold**, but include entire paragraph
+  - [ ] Scriptures
+  - [ ] Able to filter
+    - [ ] "a=patr s=byu quote 1"
+    - [ ] "t=video a=nelso quote 2"
+    - [ ] "> i will go and do nephi 3:7" (button on mobile for >)
+    - [ ] Scripture "navigate" pattern
+
 # Talk Downloader
 
 Downloads General Conference talks and BYU speeches and converts them to Markdown files.
@@ -77,3 +107,5 @@ Each file includes:
 - Source URL
 
 If a talk has already been downloaded, the script will skip it and display "Already done".
+
+
