@@ -5,6 +5,7 @@ Downloads General Conference talks from churchofjesuschrist.org and converts the
 ## Setup
 
 ```bash
+cd server
 pnpm install
 pnpm build
 ```

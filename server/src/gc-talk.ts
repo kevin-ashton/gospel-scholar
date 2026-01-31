@@ -136,7 +136,7 @@ async function processUrl(url: string): Promise<void> {
   const authorDir = sanitizeForFilename(formatAuthorForDirectory(author));
   const safeTitle = sanitizeForFilename(title);
   const filename = `${year}-${month} ${safeTitle}.md`;
-  const outputDir = path.resolve("content", authorDir, "gc");
+  const outputDir = path.resolve(__dirname, "../../content", authorDir, "gc");
   const outputPath = path.join(outputDir, filename);
 
   // Check if file already exists
