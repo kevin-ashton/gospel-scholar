@@ -7,6 +7,7 @@
     "build": "tsc",
     "gc-talk": "node dist/gc-talk.js",
     "gc-speaker": "node dist/gc-speaker.js",
+    "byu-talk": "node dist/byu-talk.js",
     "dev": "tsc --watch"
   },
   "keywords": [],

@@ -1,6 +1,6 @@
-# General Conference Talk Downloader
+# Talk Downloader
 
-Downloads General Conference talks from churchofjesuschrist.org and converts them to Markdown files.
+Downloads General Conference talks and BYU speeches and converts them to Markdown files.
 
 ## Setup
 
@@ -38,6 +38,19 @@ Example:
 pnpm gc-speaker "https://www.churchofjesuschrist.org/study/general-conference/speakers/patrick-kearon?lang=eng"
 ```
 
+### Download BYU Speeches
+
+Use `byu-talk` to download one or more BYU speeches by URL:
+
+```bash
+pnpm byu-talk <url> [url2] [url3] ...
+```
+
+Example:
+```bash
+pnpm byu-talk "https://speeches.byu.edu/talks/lawrence-e-corbridge/stand-for-ever/"
+```
+
 ## Output
 
 Files are saved to the `content/` directory, organized by author:
@@ -51,6 +64,9 @@ content/
     gc/
       2024-10 Welcome to the Church of Joy.md
       2025-04 Receive His Gift.md
+  Corbridge, Lawrence E/
+    byu/
+      2019-01 Stand Forever.md
 ```
 
 Each file includes:
