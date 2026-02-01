@@ -126,7 +126,7 @@ function formatAuthorForDirectory(name: string): string {
   }
   const lastName = parts[parts.length - 1];
   const rest = parts.slice(0, -1).join(" ");
-  return `${lastName}, ${rest}`;
+  return `${lastName} ${rest}`;
 }
 
 async function processUrl(url: string): Promise<void> {

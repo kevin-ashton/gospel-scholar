@@ -120,7 +120,7 @@ Pay whatever price you must pay, bear whatever burden you must bear, and make wh
 
 ## “That Which Doth Not Edify”
 
-So what was the gloom I felt several years ago while reading antagonistic material? Some would say that gloom is the product of belief bias, which is the propensity to pick and choose only those things that accord with our assumptions and beliefs. The thought that everything one has believed and been taught may be wrong, particularly with nothing better to take its place, is a gloomy and disturbing thought indeed. But the gloom I experienced as I listened to the dark choir of voices raised against the Prophet Joseph Smith and the Restoration of the Church of Jesus Christ—the gloom that came as I waded, chest deep, through the swamp of the secondary ­questions—is different. That gloom is not belief bias and it is not the fear of being in error. It is the absence of the Spirit of God. That is what it is. It is the condition of man when “left unto himself.”22 It is the gloom of darkness and the “stupor of thought.”23
+So what was the gloom I felt several years ago while reading antagonistic material? Some would say that gloom is the product of belief bias, which is the propensity to pick and choose only those things that accord with our assumptions and beliefs. The thought that everything one has believed and been taught may be wrong, particularly with nothing better to take its place, is a gloomy and disturbing thought indeed. But the gloom I experienced as I listened to the dark choir of voices raised against the Prophet Joseph Smith and the Restoration of the Church of Jesus Christ—the gloom that came as I waded, chest deep, through the swamp of the secondary ­questions—is different. **That gloom is not belief bias and it is not the fear of being in error. It is the absence of the Spirit of God.** That is what it is. It is the condition of man when “left unto himself.”22 It is the gloom of darkness and the “stupor of thought.”23
 
 The Lord said:
 
@@ -156,7 +156,7 @@ The Church of Jesus Christ is grounded on the rock of revelation, and the gates 
 
 Finally, believe. Believe “with God all things are possible.”26 We may all be taken back from time to time by the extraordinary—such as walking on water, multiplying bread and fish, raising the dead, translating gold plates with special lenses or a stone and hat, and the visitation of angels. Some people are hard-pressed to believe extraordinary things. While it is understandable that we may be challenged by the extraordinary, we shouldn’t be, because ordinary things are actually far more phenomenal.
 
-The most phenomenal occurrences of all time and eternity—the most amazing wonders, the most astounding, awesome developments—are the most common and widely recognized. They include: I am; you are; we are; and all that we perceive exists as well, from subatomic particles to the farthest reaches of the cosmos and everything in between, including all of the wonders of life. Is there anything greater than those ordinary realities? No. Nothing else even comes close. You can’t begin to imagine, much less describe, anything greater than what already is.
+The most phenomenal occurrences of all time and eternity—the most amazing wonders, the most astounding, awesome developments—are the most common and widely recognized. They include: I am; you are; we are; and all that we perceive exists as well, from subatomic particles to the farthest reaches of the cosmos and everything in between, including all of the wonders of life. Is there anything greater than those ordinary realities? No. Nothing else even comes close. *You can’t begin to imagine, much less describe, anything greater than what already is.*
 
 In light of what is, nothing else should surprise us. It should be easy to believe that with God all things are possible.
 
@@ -174,9 +174,7 @@ I don’t know if pigs will ever sprout wings and fly, but if they do, flying pi
 
 ## Doubts and Questions
 
-I heard someone say recently, “It is okay to have doubts.”
-
-I wonder about that. The Lord said, “Look unto me in every thought; doubt not, fear not.”27 I have a lot of questions; I don’t have any doubts.
+**I heard someone say recently, “It is okay to have doubts.” I wonder about that. The Lord said, “Look unto me in every thought; doubt not, fear not.”27 I have a lot of questions; I don’t have any doubts.**
 
 ## Conclusion
 
