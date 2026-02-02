@@ -46,7 +46,7 @@ Then the Lord brought Wendy Watson to my side. We were sealed in the Salt Lake T
 
 Each of these blessings has come as a result of seeking and heeding the promptings of the Holy Ghost. Said President Lorenzo Snow, “This is the grand privilege of every Latter-day Saint … that it is our right to have the manifestations of the Spirit every day of our lives.”
 
-One of the things the Spirit has repeatedly impressed upon my mind since my new calling as President of the Church is how willing the Lord is to reveal His mind and will. The privilege of receiving revelation is one of the greatest gifts of God to His children.
+**One of the things the Spirit has repeatedly impressed upon my mind since my new calling as President of the Church is how willing the Lord is to reveal His mind and will.** The privilege of receiving revelation is one of the greatest gifts of God to His children.
 
 Through the manifestations of the Holy Ghost, the Lord will assist us in all our righteous pursuits. I remember in an operating room, I have stood over a patient—unsure how to perform an unprecedented procedure—and experienced the Holy Ghost diagramming the technique in my mind.
 
@@ -58,21 +58,21 @@ Imagine the miracle of it! Whatever our Church calling, we can pray to our Heave
 
 When I recently faced the daunting task of choosing two counselors, I wondered how I could possibly choose just two from twelve men whom I love and respect.
 
-Because I know that good inspiration is based upon good information, I prayerfully met one-on-one with each Apostle. I then sequestered myself in a private room in the temple and sought the Lord’s will. I testify that the Lord instructed me to select President Dallin H. Oaks and President Henry B. Eyring to serve as my counselors in the First Presidency.
+Because **I know that good inspiration is based upon good information,** I prayerfully met one-on-one with each Apostle. I then sequestered myself in a private room in the temple and sought the Lord’s will. I testify that the Lord instructed me to select President Dallin H. Oaks and President Henry B. Eyring to serve as my counselors in the First Presidency.
 
 In like manner, I testify that the Lord inspired the call of Elder Gerrit W. Gong and Elder Ulisses Soares to be ordained as His Apostles. I and we welcome them to this unique brotherhood of service.
 
-When we convene as a Council of the First Presidency and Quorum of the Twelve, our meeting rooms become rooms of revelation. The Spirit is palpably present. As we wrestle with complex matters, a thrilling process unfolds as each Apostle freely expresses his thoughts and point of view. Though we may differ in our initial perspectives, the love we feel for each other is constant. Our unity helps us to discern the Lord’s will for His Church.
+When we convene as a Council of the First Presidency and Quorum of the Twelve, our meeting rooms become rooms of revelation. The Spirit is palpably present. As we wrestle with complex matters, a thrilling process unfolds as *each Apostle freely expresses his thoughts and point of view.* Though *we may differ in our initial perspectives, the love we feel for each other is constant.* Our unity helps us to discern the Lord’s will for His Church.
 
-In our meetings, the majority never rules! We listen prayerfully to one another and talk with each other until we are united. Then when we have reached complete accord, the unifying influence of the Holy Ghost is spine-tingling! We experience what the Prophet Joseph Smith knew when he taught, “By union of feeling we obtain power with God.” No member of the First Presidency or Quorum of the Twelve would ever leave decisions for the Lord’s Church to his own best judgment!
+**In our meetings, the majority never rules! We listen prayerfully to one another and talk with each other until we are united.** Then when we have reached complete accord, the unifying influence of the Holy Ghost is spine-tingling! We experience what the Prophet Joseph Smith knew when he taught, “By union of feeling we obtain power with God.” *No member of the First Presidency or Quorum of the Twelve would ever leave decisions for the Lord’s Church to his own best judgment!*
 
 Brothers and sisters, how can we become the men and women—the Christlike servants—the Lord needs us to be? How can we find answers to questions that perplex us? If Joseph Smith’s transcendent experience in the Sacred Grove teaches us anything, it is that the heavens are open and that God speaks to His children.
 
 The Prophet Joseph Smith set a pattern for us to follow in resolving our questions. Drawn to the promise of James that if we lack wisdom we may ask of God, the boy Joseph took his question directly to Heavenly Father. He sought personal revelation, and his seeking opened this last dispensation.
 
-In like manner, what will your seeking open for you? What wisdom do you lack? What do you feel an urgent need to know or understand? Follow the example of the Prophet Joseph. Find a quiet place where you can regularly go. Humble yourself before God. Pour out your heart to your Heavenly Father. Turn to Him for answers and for comfort.
+In like manner, what will your seeking open for you? What wisdom do you lack? What do you feel an urgent need to know or understand? Follow the example of the Prophet Joseph. Find a quiet place where you can *regularly go.* Humble yourself before God. Pour out your heart to your Heavenly Father. Turn to Him for answers and for comfort.
 
-Pray in the name of Jesus Christ about your concerns, your fears, your weaknesses—yes, the very longings of your heart. And then listen! Write the thoughts that come to your mind. Record your feelings and follow through with actions that you are prompted to take. As you repeat this process day after day, month after month, year after year, you will “grow into the principle of revelation.”
+**Pray in the name of Jesus Christ about your concerns, your fears, your weaknesses—yes, the very longings of your heart. And then listen! Write the thoughts that come to your mind. Record your feelings and follow through with actions that you are prompted to take. As you repeat this process day after day, month after month, year after year, you will “grow into the principle of revelation.”**
 
 Does God really want to speak to you? Yes! “As well might man stretch forth his puny arm to stop the Missouri river in its decreed course … as to hinder the Almighty from pouring down knowledge from heaven upon the heads of the Latter-day Saints.”
 
@@ -82,13 +82,13 @@ I urge you to stretch beyond your current spiritual ability to receive personal 
 
 Oh, there is so much more that your Father in Heaven wants you to know. As Elder Neal A. Maxwell taught, “To those who have eyes to see and ears to hear, it is clear that the Father and the Son are giving away the secrets of the universe!”
 
-Nothing opens the heavens quite like the combination of increased purity, exact obedience, earnest seeking, daily feasting on the words of Christ in the Book of Mormon, and regular time committed to temple and family history work.
+**Nothing opens the heavens quite like the combination of increased purity, exact obedience, earnest seeking, daily feasting on the words of Christ in the Book of Mormon, and regular time committed to temple and family history work.**
 
-To be sure, there may be times when you feel as though the heavens are closed. But I promise that as you continue to be obedient, expressing gratitude for every blessing the Lord gives you, and as you patiently honor the Lord’s timetable, you will be given the knowledge and understanding you seek. Every blessing the Lord has for you—even miracles—will follow. That is what personal revelation will do for you.
+*To be sure, there may be times when you feel as though the heavens are closed.* But I promise that as you continue to be obedient, expressing gratitude for every blessing the Lord gives you, and as you patiently honor the Lord’s timetable, you will be given the knowledge and understanding you seek. Every blessing the Lord has for you—even miracles—will follow. That is what personal revelation will do for you.
 
-I am optimistic about the future. It will be filled with opportunities for each of us to progress, contribute, and take the gospel to every corner of the earth. But I am also not naive about the days ahead. We live in a world that is complex and increasingly contentious. The constant availability of social media and a 24-hour news cycle bombard us with relentless messages. If we are to have any hope of sifting through the myriad of voices and the philosophies of men that attack truth, we must learn to receive revelation.
+*I am optimistic about the future.* It will be filled with opportunities for each of us to progress, contribute, and take the gospel to every corner of the earth. But I am also not naive about the days ahead. We live in a world that is complex and increasingly contentious. The constant availability of social media and a 24-hour news cycle bombard us with relentless messages. If we are to have any hope of sifting through the myriad of voices and the philosophies of men that attack truth, we must learn to receive revelation.
 
-Our Savior and Redeemer, Jesus Christ, will perform some of His mightiest works between now and when He comes again. We will see miraculous indications that God the Father and His Son, Jesus Christ, preside over this Church in majesty and glory. But in coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.
+**Our Savior and Redeemer, Jesus Christ, will perform some of His mightiest works between now and when He comes again. We will see miraculous indications that God the Father and His Son, Jesus Christ, preside over this Church in majesty and glory.** But **in coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.**
 
 My beloved brothers and sisters, I plead with you to increase your spiritual capacity to receive revelation. Let this Easter Sunday be a defining moment in your life. Choose to do the spiritual work required to enjoy the gift of the Holy Ghost and hear the voice of the Spirit more frequently and more clearly.
 
@@ -105,33 +105,33 @@ This is His Church, restored through the Prophet Joseph Smith. I so testify, wit
 Notes
 
 1.  Doctrine and Covenants 19:18.
-    
+
 2.  See Luke 23:33.
-    
+
 3.  See Alma 26:16.
-    
+
 4.  Teachings of Presidents of the Church: Lorenzo Snow (2012), 76.
-    
+
 5.  See Russell M. Nelson, “Sweet Power of Prayer,” Ensign or Liahona, May 2003, 7–8.
-    
+
 6.  See 3 Nephi 28:1.
-    
+
 7.  Teachings of Presidents of the Church: Joseph Smith (2007), 393–94.
-    
+
 8.  See James 1:5.
-    
+
 9.  Teachings: Joseph Smith, 132.
-    
+
 10.  Doctrine and Covenants 121:33.
-     
+
 11.  See Moroni 10:5.
-     
+
 12.  Doctrine and Covenants 42:61.
-     
+
 13.  Neal A. Maxwell, “Meek and Lowly” (Brigham Young University devotional, Oct. 21, 1986), 9, speeches.byu.edu.
-     
+
 14.  See 2 Nephi 32:3.
-     
+
 15.  Moroni 10:30.
 
 ---

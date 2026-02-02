@@ -78,7 +78,7 @@ My dear young friends, there is always a way back. Jesus Christ (and His gospel)
 
 Sometimes we as leaders of the Church are criticized for holding firm to the laws of God, defending the Savior’s doctrine, and resisting the social pressures of our day. But our commission as ordained apostles is “to go into all the world to preach \[His\] gospel unto every creature.”8 That means we are commanded to teach truth.
 
-In doing so, sometimes we are accused of being uncaring as we teach the Father’s requirements for exaltation in the celestial kingdom. But wouldn’t it be far more uncaring for us not to tell the truth—not to teach what God has revealed?
+In doing so, **sometimes we are accused of being uncaring as we teach the Father’s requirements for exaltation in the celestial kingdom. But wouldn’t it be far more uncaring for us not to tell the truth—not to teach what God has revealed?**
 
 It is precisely because we do care deeply about all of God’s children that we proclaim His truth. We may not always tell people what they want to hear. Prophets are rarely popular. But we will always teach the truth!
 

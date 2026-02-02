@@ -46,7 +46,7 @@ Where can you start?
 
 May I offer four invitations:
 
-First, I invite you to participate in a 10-day fast from social media and from any other media that bring negative and impure thoughts to your mind. Pray to know which influences to remove during your fast. The effect of your 10-day fast may surprise you. What do you notice after taking a break from perspectives of the world that have been wounding your spirit? Is there a change in where you now want to spend your time and energy? Have any of your priorities shifted—even just a little? I urge you to record and follow through with each impression.
+First, I invite you to participate in a 10-day fast from social media and from any other media that bring negative and impure thoughts to your mind. Pray to know which influences to remove during your fast. The effect of your 10-day fast may surprise you. *What do you notice after taking a break from perspectives of the world that have been wounding your spirit?* Is there a change in where you now want to spend your time and energy? Have any of your priorities shifted—even just a little? I urge you to record and follow through with each impression.
 
 Second, I invite you to read the Book of Mormon between now and the end of the year. As impossible as that may seem with all you are trying to manage in your life, if you will accept this invitation with full purpose of heart, the Lord will help you find a way to achieve it. And, as you prayerfully study, I promise that the heavens will open for you. The Lord will bless you with increased inspiration and revelation.
 
@@ -77,11 +77,11 @@ Jesus is the Christ. This is His Church. Of this I testify in the name of Jesus 
 Notes
 
 1.  Russell M. Nelson, “Hope of Israel” (worldwide youth devotional, June 3, 2018), HopeofIsrael.lds.org.
-    
+
 2.  See 2 Nephi 25:26.
-    
+
 3.  These documents are available online. For the Relief Society purpose statement, see lds.org/callings/relief-society. For the Relief Society declaration, see Mary Ellen Smoot, “Rejoice, Daughters of Zion,” Ensign, Nov. 1999, 92–94; Liahona, Jan. 2000, 111–14.
-    
+
 4.  Russell M. Nelson, “A Plea to My Sisters,” Ensign or Liahona, Nov. 2015, 96; emphasis added.
 
 ---

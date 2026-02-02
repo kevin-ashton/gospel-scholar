@@ -14,15 +14,15 @@ We see faithful women who understand the power inherent in their callings and in
 
 Likewise, we see faithful men who live up to their privileges as bearers of the priesthood. They lead and serve by sacrifice in the Lord’s way with love, kindness, and patience. They bless, guide, protect, and strengthen others by the power of the priesthood they hold. They bring miracles to those they serve while they keep their own marriages and families safe. They shun evil and are mighty elders in Israel. I am most thankful for them!
 
-Now, may I voice a concern? It is this: Too many of our brothers and sisters do not fully understand the concept of priesthood power and authority. They act as though they would rather satisfy their own selfish desires and appetites than use the power of God to bless His children.
+Now, may I voice a concern? It is this: Too many of our brothers and sisters do not fully understand the concept of priesthood power and authority. *They act as though they would rather satisfy their own selfish desires and appetites than use the power of God to bless His children.*
 
 I fear that too many of our brothers and sisters do not grasp the privileges that could be theirs. Some of our brethren, for example, act like they do not understand what the priesthood is and what it enables them to do. Let me give you some specific examples.
 
-Not long ago, I attended a sacrament meeting in which a new baby was to be given a name and a father’s blessing. The young father held his precious infant in his arms, gave her a name, and then offered a beautiful prayer. But he did not give that child a blessing. That sweet baby girl got a name but no blessing! That dear elder did not know the difference between a prayer and a priesthood blessing. With his priesthood authority and power, he could have blessed his infant, but he did not. I thought, “What a missed opportunity!”
+Not long ago, I attended a sacrament meeting in which a new baby was to be given a name and a father’s blessing. The young father held his precious infant in his arms, gave her a name, and then offered a beautiful prayer. *But he did not give that child a blessing.* That sweet baby girl got a name but no blessing! That dear elder did not know the difference between a prayer and a priesthood blessing. With his priesthood authority and power, he could have blessed his infant, but he did not. I thought, “What a missed opportunity!”
 
 Let me cite some other examples. We know of brethren who set sisters apart as Primary, Young Women, or Relief Society leaders and teachers but fail to bless them—to bless them with the power to fulfill their callings. They give only admonitions and instructions. We see a worthy father who fails to give his wife and his children priesthood blessings when that is exactly what they need. Priesthood power has been restored to this earth, and yet far too many brothers and sisters go through terrible trials in life without ever receiving a true priesthood blessing. What a tragedy! That’s a tragedy that we can eliminate.
 
-Brethren, we hold the holy priesthood of God! We have His authority to bless His people. Just think of the remarkable assurance the Lord gave us when He said, “Whomsoever you bless I will bless.” It is our privilege to act in the name of Jesus Christ to bless God’s children according to His will for them. Stake presidents and bishops, please ensure that every member of the quorums within your stewardship understands how to give a priesthood blessing—including the personal worthiness and spiritual preparation required to call fully upon the power of God.
+Brethren, we hold the holy priesthood of God! We have His authority to bless His people. Just think of the remarkable assurance the Lord gave us when He said, “Whomsoever you bless I will bless.” It is our privilege to act in the name of Jesus Christ to bless God’s children *according to His will for them.* Stake presidents and bishops, please ensure that every member of the quorums within your stewardship understands how to give a priesthood blessing—including the personal worthiness and spiritual preparation required to call fully upon the power of God.
 
 To all brethren holding the priesthood, I invite you to inspire members to keep their covenants, fast and pray, study the scriptures, worship in the temple, and serve with faith as men and women of God. We can help all to see with the eye of faith that obedience and righteousness will draw them closer to Jesus Christ, allow them to enjoy the companionship of the Holy Ghost, and experience joy in life!
 
@@ -59,29 +59,29 @@ Now, brethren, will you please remain standing and join with our chorus in singi
 Notes
 
 1.  See Russell M. Nelson, “A Plea to My Sisters,” Ensign or Liahona, Nov. 2015, 96.
-    
+
 2.  See Russell M. Nelson, “The Price of Priesthood Power,” Ensign or Liahona, May 2016, 66–69; see also Alma 13:7–8; Doctrine and Covenants 84:17–20, 35–38.
-    
+
 3.  See Doctrine and Covenants 84:19–22; 107:18–19; Joseph Smith Translation, Genesis 14:30–31 (in the Bible appendix).
-    
+
 4.  Doctrine and Covenants 132:47.
-    
+
 5.  The connection between the power of the priesthood and personal righteousness is developed more fully in Russell M. Nelson, “The Price of Priesthood Power,” 66–69; see also Doctrine and Covenants 121:34–37, 41–44.
-    
+
 6.  The essential role of an organized, directed effort to minister to individuals and families is evident wherever and whenever the Church of Jesus Christ has been established. See, for example, Luke 10:1–20; Acts 6:1–6; Ephesians 4:11–14; Mosiah 18:9, 18–19, 27–29; Doctrine and Covenants 20:42, 51, 57.
-    
+
 7.  See 3 Nephi 17:9–10, 20–21.
-    
+
 8.  Manti Utah Temple, June 15, 1937.
-    
+
 9.  Leonora’s fasting and praying every Monday for years surely had a powerful influence for good.
-    
+
 10.  In 1954, branch president Ira Terry called Wilbur to be the branch Sunday School superintendent. Wilbur accepted the calling and dropped forever all habits contrary to the Word of Wisdom. He devoted the rest of his life in service to the Savior’s work.
-     
+
 11.  In 1962.
-     
+
 12.  Alma 13:3.
-     
+
 13.  “Rise Up, O Men of God,” Hymns, no. 324.
 
 ---
