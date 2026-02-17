@@ -11,15 +11,15 @@ Today I feel compelled to discuss with you a matter of great importance. Some we
 As you would expect, responses to this statement and to the revised style guide have been mixed. Many members immediately corrected the name of the Church on their blogs and social media pages. Others wondered why, with all that’s going on in the world, it was necessary to emphasize something so “inconsequential.” And some said it couldn’t be done, so why even try? Let me explain why we care so deeply about this issue. But first let me state what this effort is not:
 
 -   It is not a name change.
-    
+
 -   It is not rebranding.
-    
+
 -   It is not cosmetic.
-    
+
 -   It is not a whim.
-    
+
 -   And it is not inconsequential.
-    
+
 
 Instead, it is a correction. It is the command of the Lord. Joseph Smith did not name the Church restored through him; neither did Mormon. It was the Savior Himself who said, “For thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints.”
 
@@ -49,7 +49,7 @@ Taking the Savior’s name upon us includes declaring and witnessing to others�
 
 If we as a people and as individuals are to have access to the power of the Atonement of Jesus Christ—to cleanse and heal us, to strengthen and magnify us, and ultimately to exalt us—we must clearly acknowledge Him as the source of that power. We can begin by calling His Church by the name He decreed.
 
-For much of the world, the Lord’s Church is presently disguised as the “Mormon Church.” But we as members of the Lord’s Church know who stands at its head: Jesus Christ Himself. Unfortunately, many who hear the term Mormon may think that we worship Mormon. Not so! We honor and respect that great ancient American prophet. But we are not Mormon’s disciples. We are the Lord’s disciples.
+**For much of the world, the Lord’s Church is presently disguised as the “Mormon Church.”** But we as members of the Lord’s Church know who stands at its head: Jesus Christ Himself. Unfortunately, many who hear the term Mormon may think that we worship Mormon. Not so! We honor and respect that great ancient American prophet. But we are not Mormon’s disciples. We are the Lord’s disciples.
 
 In the early days of the restored Church, terms such as Mormon Church and Mormons were often used as epithets—as cruel terms, abusive terms—designed to obliterate God’s hand in restoring the Church of Jesus Christ in these latter days.
 
@@ -86,41 +86,41 @@ I know that God lives. Jesus is the Christ. He leads His Church today. I so test
 Notes
 
 1.  “The Lord has impressed upon my mind the importance of the name He has revealed for His Church, even The Church of Jesus Christ of Latter-day Saints. We have work before us to bring ourselves in harmony with His will. In recent weeks, various Church leaders and departments have initiated the necessary steps to do so. Additional information about this important matter will be made available in the coming months” (Russell M. Nelson, in “The Name of the Church” \[official statement, Aug. 16, 2018\], mormonnewsroom.org).
-    
+
 2.  Preceding Presidents of the Church have made similar requests. For example, President George Albert Smith said: “Don’t let the Lord down by calling this the Mormon Church. He didn’t call it the Mormon Church” (in Conference Report, Apr. 1948, 160).
-    
+
 3.  See “Style Guide—The Name of the Church,” newsroom.churchofjesuschrist.org.
-    
+
 4.  Doctrine and Covenants 115:4.
-    
+
 5.  3 Nephi 27:7–8.
-    
+
 6.  See Moses 1:33.
-    
+
 7.  See Doctrine and Covenants 19:18.
-    
+
 8.  See Moroni 4:3; Doctrine and Covenants 20:37, 77.
-    
+
 9.  Mormon was one of the four major writers of the Book of Mormon, the others being Nephi, Jacob, and Moroni. All were eyewitnesses of the Lord, as was its inspired translator, the Prophet Joseph Smith.
-    
+
 10.  Even the word Mormonites was among terms of derision that were employed (see History of the Church, 2:62–63, 126).
-     
+
 11.  Other epithets seem to have occurred in New Testament times. During the Apostle Paul’s trial before Felix, Paul was said to be “a ringleader of the sect of the Nazarenes” (Acts 24:5). Regarding the use of the phrase “of the Nazarenes,” one commentator wrote: “This was the name usually given to Christians by way of contempt. They were so called because Jesus was of Nazareth” (Albert Barnes, Notes, Explanatory and Practical, on the Acts of the Apostles \[1937\], 313).
-     
+
      Similarly, another commentary states: “As our Lord was contemptuously called ‘The Nazarene’ (Matt. xxvi. 71), so the Jews designated his disciples ‘Nazarenes.’ They would not admit that they were Christians, i.e. disciples of the Messiah” (The Pulpit Commentary: The Acts of the Apostles, ed. H. D. M. Spence and Joseph S. Exell \[1884\], 2:231).
-     
+
      In a related vein, Elder Neal A. Maxwell observed: “Throughout scriptural history, we see recurring efforts to demean prophets in order to dismiss them—to label them in order to diminish them. Mostly, however, they are simply ignored by their contemporaries and by secular history. After all, early Christians were merely called ‘the sect of the Nazarenes.’ (Acts 24:5.)” (“Out of Obscurity,” Ensign, Nov. 1984, 10).
-     
+
 12.  See 1 Nephi 18:1–2.
-     
+
 13.  Benjamín De Hoyos, “Called to Be Saints,” Ensign or Liahona, May 2011, 106.
-     
+
 14.  While we have no control over what other people may call us, we are in complete control over how we refer to ourselves. How can we expect others to honor the correct name of the Church if we as its members fail to do so?
-     
+
 15.  “Style Guide—The Name of the Church,” newsroom.churchofjesuschrist.org.
-     
+
 16.  The term saint is used often in the Holy Bible. In Paul’s Epistle to the Ephesians, for example, he used the word saint at least once in every chapter. A saint is a person who believes in Jesus Christ and strives to follow Him.
-     
+
 17.  See Doctrine and Covenants 121:33.
 
 ---

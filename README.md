@@ -23,10 +23,10 @@
   - [ ] Index **bold**, but include entire paragraph
   - [ ] Scriptures
   - [ ] Able to filter
-    - [ ] "a=patr s=byu quote 1"
+    - [ ] "a=oaks s=byu quote 1"
     - [ ] "t=video a=nelso quote 2"
     - [ ] "> i will go and do nephi 3:7" (button on mobile for >)
-    - [ ] Scripture "navigate" pattern
+    - [ ] Scripture "navigate" pattern 1n37
 
 # Talk Downloader
 
@@ -80,6 +80,41 @@ Example:
 ```bash
 pnpm byu-talk "https://speeches.byu.edu/talks/lawrence-e-corbridge/stand-for-ever/"
 ```
+
+### Download Bible from Bible.com
+
+Downloads the entire Bible from bible.com as raw HTML files. This is a two-step process:
+
+**Step 1: Download raw HTML**
+
+```bash
+pnpm bible-download [versionId] [versionCode]
+```
+
+Examples:
+```bash
+pnpm bible-download              # NIRV (default, versionId=110)
+pnpm bible-download 111 NIV      # NIV
+pnpm bible-download 59 ESV       # ESV
+```
+
+Raw HTML files are saved to `raw_downloads/bible/{version}/`:
+```
+raw_downloads/bible/nirv/
+  GEN.1.html
+  GEN.2.html
+  ...
+  REV.22.html
+```
+
+Features:
+- Downloads all 66 books (1,189 chapters)
+- Skips already-downloaded files (resume-friendly)
+- 500ms delay between requests to be respectful to the server
+
+**Step 2: Process into JSON** (coming soon)
+
+Will parse the raw HTML and output structured JSON to `content/scriptures/bible/{version}/bible.json`.
 
 ## Output
 

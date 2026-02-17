@@ -8,6 +8,8 @@
     "gc-talk": "node dist/gc-talk.js",
     "gc-speaker": "node dist/gc-speaker.js",
     "byu-talk": "node dist/byu-talk.js",
+    "bible": "node dist/bible.js",
+    "bible-download": "node dist/bible-download.js",
     "dev": "tsc --watch"
   },
   "keywords": [],
