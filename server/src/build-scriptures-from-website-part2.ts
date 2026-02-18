@@ -364,7 +364,7 @@ function buildScriptures(): void {
   // Write using a stream to avoid holding the entire JSON string in memory
   const fd = fs.openSync(outPath, "w");
   fs.writeSync(fd, '{"structure":');
-  fs.writeSync(fd, JSON.stringify(scriptures.structure));
+  fs.writeSync(fd, JSON.stringify(scriptures.structure, null, 2));
   fs.writeSync(fd, ',"verses":');
 
   // Write verses in chunks to limit memory
