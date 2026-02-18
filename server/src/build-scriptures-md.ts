@@ -64,6 +64,9 @@ function buildScriptureSet() {
         const fileName = `${slug}${chapterNum}.md`;
         let md = `# ${book.title} ${chapterNum}\n`;
 
+        if (chapterNum === "1" && book.summary) {
+          md += `\n${book.summary}\n`;
+        }
         if (chapter.intro) {
           md += `\n${chapter.intro}\n`;
         }

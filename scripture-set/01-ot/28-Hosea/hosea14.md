@@ -1,0 +1,30 @@
+# Hosea 14
+
+In the last days, Ephraim will repent and return unto the Lord.
+
+# 01
+O ISRAEL, return unto the LORD thy God; for thou hast fallen by thine iniquity.
+
+# 02
+Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.
+
+# 03
+Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.
+
+# 04
+I will heal their backsliding, I will love them freely: for mine anger is turned away from him.
+
+# 05
+I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.
+
+# 06
+His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.
+
+# 07
+They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.
+
+# 08
+Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.
+
+# 09
+Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.
