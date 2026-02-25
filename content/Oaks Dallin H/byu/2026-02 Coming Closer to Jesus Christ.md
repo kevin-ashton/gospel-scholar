@@ -1,4 +1,4 @@
-# Coming Closer to Jesus Christ
+  # Coming Closer to Jesus Christ
 
 Dallin H. Oaks
 
@@ -20,17 +20,19 @@ Now I address a BYU audience, but what I have to say applies to all who follow t
 
 I want to thank the many friends and members who have prayed and expressed support for me in my new calling. Frequent references to the “mantle” of the office settling on me have suggested that I begin with some observations on the significance of that term.
 
-The word mantle is used in the Bible to describe the cloak of the prophet Elijah that descended on Elisha as a symbol of the passage of prophetic authority.3 The term mantle came into the restored Church’s history in many reports of the meeting in Nauvoo on who would succeed the murdered Joseph Smith. Many who were present recorded their experience of the “mantle of Joseph” settling on Brigham Young. Those experiences took many forms. Some had visual experiences, some heard Joseph’s voice, and many had a feeling, as each of us receives revelation differently.
+The word mantle is used in the Bible to describe the cloak of the prophet Elijah that descended on Elisha as a symbol of the passage of prophetic authority.3 The term mantle came into the restored Church’s history in many reports of the meeting in Nauvoo on who would succeed the murdered Joseph Smith. Many who were present recorded their experience of the “mantle of Joseph” settling on Brigham Young. Those experiences took many forms. Some had visual experiences, some heard Joseph’s voice, and many had a feeling, as *each of us receives revelation differently.*
+
+> How do I receive revelation?  I think mostly as reasoning in my mind, as new ideas that excite me. The feeling of all the pieces "fitting" together, and most of all peace a knowledge of something. A deeper understanding of it than I would othewise be able to have.
 
 When Russell M. Nelson was called as our prophet, I had a similar experience. I had sat beside this apostle in the meetings of the Quorum of the Twelve for 34 years, but when the mantle of the prophet settled upon President Nelson, I felt that his prophetic gifts were magnified. We all have witnessed his profound leadership.
 
-Upon President Nelson’s death, I experienced another meaning of the mantle. To observers, it symbolizes a transfer of priesthood authority. To the person who receives that authority, it is very different and very real. Within a few minutes after learning of our president’s death, I felt the heaviness of responsibility settle upon me, along with important impressions of what I was required to do now.
+Upon President Nelson’s death, I experienced another meaning of the mantle. To observers, it symbolizes a transfer of priesthood authority. To the person who receives that authority, it is very different and very real. Within a few minutes after learning of our president’s death, I felt the heaviness of responsibility settle upon me, along with important impressions of what *I was required* to do now.
 
-As your leader, I pray for what our Heavenly Father wants for each of us—and that is to be or become active members of The Church of Jesus Christ of Latter-day Saints, proceeding forward on the covenant path into the eternities. We need one another’s prayers. I feel the positive effect of your prayers. I am thankful, and I love you.
+As your leader, I pray for what our Heavenly Father wants for each of us—and that is to be or become active members of The Church of Jesus Christ of Latter-day Saints, proceeding forward on the covenant path into the eternities. *We need one another’s prayers.* I feel the positive effect of your prayers. I am thankful, and I love you.
 
 ## II. Doctrinal Issues for Latter-day Saints
 
-I feel to emphasize the warning President Russell M. Nelson issued us: that “in coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.”4 One of the many reasons you will need the constant influence of the Holy Ghost is that you live in a season in which the adversary has become so effective at disguising truth that if you don’t have the Holy Ghost, you will be deceived. Many obstacles lie ahead. The distractions will be many. Even active members may sometimes have concerns about some historical, doctrinal, or social issues connected with the Church.
+I feel to emphasize the warning President Russell M. Nelson issued us: that “in coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.”4 One of the many reasons you will need the constant influence of the Holy Ghost is that you live in a season in which **the adversary has become so effective at disguising truth that if you don’t have the Holy Ghost, you will be deceived.** Many obstacles lie ahead. *The distractions will be many.* Even active members may sometimes have concerns about some historical, doctrinal, or social issues connected with the Church.
 
 I want to help all our members overcome present or future doubts. Whatever those doubts, the way to overcome them is to get closer to our Savior Jesus Christ. Again and again, He has taught us that He is the way.
 
@@ -65,7 +67,7 @@ He also said, “Humility responds to God’s will—to the fear of His judgment
 
 “Let us choose to be humble,”8 he pleaded.
 
-I add: Look to the needs of others, and humility follows.
+I add: *Look to the needs of others, and humility follows.*
 
 Like faith in God, humility is a master virtue, given to help us learn other virtues necessary for us to become what our Heavenly Father and His Only Begotten Son created us to become.
 
@@ -77,11 +79,13 @@ Humility is teachableness—an ability to realize that all virtues and abilities
 
 Humility is repentant and seeks not to justify its follies. It is forgiving others in the realization that there may be errors of the same kind or worse \[that we ourselves commit\]. . . .
 
-Humility makes no bid for popularity and notoriety; demands no honors.9
+*Humility makes no bid for popularity and notoriety*; demands no honors.9
 
-To have humility is one of the powerful commandments we have been given to guide us in our mortal journey. It prepares us for our appointed meeting with our Savior and Redeemer, Jesus Christ. Take care not to become distracted. Remember His parable of the ten virgins.10 We want to be among the five humble ones who were admitted to the presence of the Lord.
+To have humility is one of the powerful commandments we have been given to guide us in our mortal journey. *It prepares us for our appointed meeting with our Savior and Redeemer, Jesus Christ.* Take care not to become distracted. Remember His parable of the ten virgins.10 We want to be among the five humble ones who were admitted to the presence of the Lord.
 
-The Lord loves all of His children and longs for their return, but we all know examples of returned missionaries who have interrupted their spiritual growth with periods of inactivity. We know of youth who have jeopardized their spiritual growth by separating themselves from Church teachings—such as those who are expressing little desire to be married or to have children. And there are adult members who do not seek to be a covenant-making people—such as men who do not prepare for ordination to the Melchizedek Priesthood.
+The Lord loves all of His children and longs for their return, but we all know examples of returned missionaries who have interrupted their spiritual growth with periods of inactivity. We know of youth who have jeopardized their spiritual growth by separating themselves from Church teachings—**such as those who are expressing little desire to be married or to have children.** And there are adult members who do not seek to be a covenant-making people—such as men who do not prepare for ordination to the Melchizedek Priesthood.
+
+> Very interesting he mentions that. I have seen and felt that.
 
 Those of diminishing faith and activity in the restored Church are a major source of concern to your prophet leaders. We love you, young and old, men and women. So does the Lord! God is relentless in His loving pursuit of each of you. Keep the commandments and be true to the covenants so many of you have made to guide you along the covenant path. Never let your secular learning limit your horizons.
 
